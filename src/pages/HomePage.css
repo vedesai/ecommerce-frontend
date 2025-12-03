@@ -1,0 +1,20 @@
+/* AI Generated Code by Deloitte + Cursor (BEGIN) */
+.home-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.home-page-loading,
+.home-page-error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: var(--spacing-xl);
+}
+
+.home-page-error {
+  color: var(--color-error);
+}
+/* AI Generated Code by Deloitte + Cursor (END) */
